@@ -1,0 +1,8 @@
+{
+  "name": "Remix Hoàng Yến - Landing Page Cá Nhân",
+  "description": "Landing Page giới thiệu thương hiệu cá nhân của Hoàng Yến- Chuyên viên tư vấn BĐS Vinhomes \u0026 Masterise Homes tại Ocean Park",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
