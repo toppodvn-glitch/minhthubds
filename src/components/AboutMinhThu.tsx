@@ -33,6 +33,7 @@ export default function AboutMinhThu() {
             <img 
               src="https://i.postimg.cc/pVqwn1Z5/logo-minh-thu.jpg"
               alt="Logo Minh Thu - BĐS Hạ Long" 
+              referrerPolicy="no-referrer"
               className="w-full h-full object-cover"
             />
           </div>

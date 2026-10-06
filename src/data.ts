@@ -88,7 +88,7 @@ export const projectsData: Project[] = [
     ],
     image: 'https://i.postimg.cc/zGS68tVq/sun-centro-town-4.jpg',
     ctaText: 'Xem chi tiết & Nhận bảng giá',
-    priceEstimate: 'Từ 6 – 12 Tỷ/căn',
+    priceEstimate: 'Từ 3 - 12 Tỷ/căn',
     category: 'Nhà phố thương mại'
   },
   {
